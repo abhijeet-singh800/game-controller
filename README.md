@@ -1,4 +1,4 @@
-# Arduino Enables Game Controller 
+# Arduino Game Controller 
 This project involves creating an Arduino Based Game Controller using the Pro Micro , which uses Atmega 32u4. 
 
 This project Requires you to Install [MHeironimus/ArduinoJoystickLibrary](https://github.com/MHeironimus/ArduinoJoystickLibrary)  
